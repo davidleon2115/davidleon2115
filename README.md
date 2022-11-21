@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on *Portfolio*
 
-- 🌱 I’m currently learning *Node.js and React*
+- 🌱 I’m currently learning *React Js*
 
 - 👯 I’m looking to collaborate on *Info page with Typescript*
 
 - 👨‍💻 All of my projects are available at [Coming soon this link...](Coming soon this link...)
 
-- 💬 Ask me about *JavaScript,PHP, Laravel, Node and coming soon React*
+- 💬 Ask me about *JavaScript, Vue , Nuxt , PHP , Laravel , Node and coming soon React*
 
 - 📫 How to reach me *leon95024@gmail.com*
 
