@@ -28,10 +28,3 @@
 <a href="https://www.hackerrank.com/leon95024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leon95024" height="30" width="40" /></a>
 </p>
 
-rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidleon2115&show_icons=true&locale=en&layout=compact" alt="davidleon2115" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidleon2115&show_icons=true&locale=en" alt="davidleon2115" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidleon2115&" alt="davidleon2115" /></p>
