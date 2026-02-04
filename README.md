@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming soon this link...](Coming soon this link...)
 
-- 💬 Ask me about *JavaScript, Vue , Nuxt , PHP , Laravel , Node and coming soon React*
+- 💬 Ask me about *JavaScript, Vue , Nuxt , Node and React*
 
 - 📫 How to reach me *leon95024@gmail.com*
 
